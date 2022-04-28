@@ -19,3 +19,9 @@ Anyway, I ended up rescaffolding the entire Angular application using the latest
 Please let me know if there's anything left for me to do....
 
 --Jesse
+
+## Screenshots
+
+![List Users](list-users-screenshot.png)
+![Add User](add-user-screenshot.png)
+![Edit User](edit-user-screenshot.png)

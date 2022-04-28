@@ -11,7 +11,9 @@
       </thead>
       <tbody>
         <tr *ngFor="let user of users">
-          <td>{{ user.id }}</td>
+          <td>
+            <a [routerLink]="['/edituser']" [state]="user">{{ user.id }}</a>
+          </td>
           <td>{{ user.name }}</td>
           <td><a href="mailto:{{ user.email }}">{{ user.email }}</a></td>
           <td>{{ user.favoriteCharacter }}</td>
