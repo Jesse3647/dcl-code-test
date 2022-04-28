@@ -1,10 +1,10 @@
 # dcl-code-test
 
-Using JDK 11
-
-Now using node v12.22.11 (npm v8.5.5)
+Using JDK 11, node v12.22.11, npm v8.5.5
+```
 npm install -g @angular/cli@13.3.4
 npm install
+```
 
 A fork from [here](https://github.com/fityp/dcl-code-test).
 
